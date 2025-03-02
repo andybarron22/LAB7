@@ -6,7 +6,7 @@ from sklearn.metrics import mean_squared_error
 import openpyxl
 
 
-file_path = "AmesHousing.xlsx"
+file_path = "Ameshousing.xlsx"
 df = pd.read_excel(file_path)
 
 
